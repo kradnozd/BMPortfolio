@@ -6,11 +6,16 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 	</head>
-	<body>
-		
+	<body ng-app="PortfolioApp">
+		<div ng-controller="WorkListCtrl">
+			<div ng-repeat="file in myWorks">
+				<h2>{{file.title}}</h2>
+			</div>
+		</div>
 		<!-- Scripts -->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/angular.min.js"></script>
+		<script src="js/portfolio.js"></script>
 	</body>
 </html>
