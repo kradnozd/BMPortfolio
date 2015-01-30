@@ -5,8 +5,8 @@
 		"intro"	:	"Lorem ipsum dolor sit amet consectetur.",
 		"description"	:	"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
 		"category"	:	"Graphic Design",
-		"cover"	:	"img/project/no impact week/cover.jpg",
-		"images"	:	["img/project/no impact week/logo.jpg", "img/project/no impact week/poster.jpg", "img/project/no impact week/shirt.png", "img/project/no impact week/banner.jpg"]
+		"cover"	:	"img/project/no-impact-week/cover.jpg",
+		"images"	:	["img/project/no-impact-week/logo.jpg", "img/project/no-impact-week/poster.jpg", "img/project/no-impact-week/shirt.png", "img/project/no-impact-week/banner.jpg"]
 	},
 	{
 		"id"	:	2,	
@@ -14,8 +14,8 @@
 		"intro"	:	"Lorem ipsum dolor sit amet consectetur.",
 		"description"	:	"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
 		"category"	:	"Graphic Design",
-		"cover"	:	"img/project/OPENDAY 2014/cover.jpg",
-		"images"	:	["img/project/OPENDAY 2014/logo.jpg", "img/project/OPENDAY 2014/shirt.jpg", "img/project/OPENDAY 2014/cover.jpg"]
+		"cover"	:	"img/project/openday-2014/cover.jpg",
+		"images"	:	["img/project/openday-2014/logo.jpg", "img/project/openday-2014/shirt.jpg", "img/project/openday-2014/cover.jpg"]
 	},
 	{
 		"id"	:	3,	
